@@ -52,6 +52,8 @@ github.com/NCKU-NASA/nasa-judge-lib v0.0.0-20240530130510-f1ef7971219e h1:SewvOl
 github.com/NCKU-NASA/nasa-judge-lib v0.0.0-20240530130510-f1ef7971219e/go.mod h1:/Bw5tZxR7Cmw21zktGPIKolDGs1mLqqES0mQNRHT0ug=
 github.com/NCKU-NASA/nasa-judge-lib v0.0.0-20240530215705-53c00ca6d018 h1:ah8krxhWRj/x1XOxn0jvA21BBhVTQHQutCKwbrZs6G0=
 github.com/NCKU-NASA/nasa-judge-lib v0.0.0-20240530215705-53c00ca6d018/go.mod h1:/Bw5tZxR7Cmw21zktGPIKolDGs1mLqqES0mQNRHT0ug=
+github.com/NCKU-NASA/nasa-judge-lib v0.0.0-20240530221544-c93f04dee42e h1:OGd6ibah9dEdj+PtK5rO9ZiVnL0R7VPLBQMSU7K8NGc=
+github.com/NCKU-NASA/nasa-judge-lib v0.0.0-20240530221544-c93f04dee42e/go.mod h1:/Bw5tZxR7Cmw21zktGPIKolDGs1mLqqES0mQNRHT0ug=
 github.com/bytedance/sonic v1.11.6 h1:oUp34TzMlL+OY1OUWxHqsdkgC/Zfc85zGqw9siXjrc0=
 github.com/bytedance/sonic v1.11.6/go.mod h1:LysEHSvpvDySVdC2f87zGWf6CIKJcAvqab1ZaiQtds4=
 github.com/bytedance/sonic/loader v0.1.1 h1:c+e5Pt1k/cy5wMveRDyk2X4B9hF4g7an8N3zCYjJFNM=
