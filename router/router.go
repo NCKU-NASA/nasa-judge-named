@@ -28,6 +28,9 @@ func update(c *gin.Context) {
         Username: userdata.Username,
     }
     userdata.Fix()
+    if userdata.Username == "" {
+        errutil.AbortAndStatus(c, 400)
+    }
     userdata, err = user.GetUser(userdata)
     if err != nil {
         errutil.AbortAndError(c, &errutil.Err{
